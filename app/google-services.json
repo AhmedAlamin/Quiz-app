@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398427541770",
+    "firebase_url": "https://hamzaapp-2a284.firebaseio.com",
+    "project_id": "hamzaapp-2a284",
+    "storage_bucket": "hamzaapp-2a284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398427541770:android:48525f2364db1ec929eaf3",
+        "android_client_info": {
+          "package_name": "com.quizAhmedAlbadry.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398427541770-l247so94r1i2vg0jio18enf0f30nf8sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizAhmedAlbadry.example",
+            "certificate_hash": "aa099d0cc538e7b7f9c4a73bba82d5e144056195"
+          }
+        },
+        {
+          "client_id": "398427541770-qf9ivteo9kgleifhs42j2ho9cfigq1n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHU2pMC9S8PUm64Room1tR1rlPlX9XEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398427541770-qf9ivteo9kgleifhs42j2ho9cfigq1n0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398427541770-1f2k32c01vlc8k9hklmfmcaul9ilsje5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ahmedoalamin.com.flutterapp102"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

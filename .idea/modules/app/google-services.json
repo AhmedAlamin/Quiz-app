@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1073410147315",
+    "firebase_url": "https://quizahmed-fa060.firebaseio.com",
+    "project_id": "quizahmed-fa060",
+    "storage_bucket": "quizahmed-fa060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073410147315:android:42bf6ec3702c4109c44886",
+        "android_client_info": {
+          "package_name": "com.quizAhmedAlbadry.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073410147315-85g10o43mjh63etijoovbotvfm67mmoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizAhmedAlbadry.example",
+            "certificate_hash": "aa099d0cc538e7b7f9c4a73bba82d5e144056195"
+          }
+        },
+        {
+          "client_id": "1073410147315-j14tfqobo49rqf5rfuulrqakfuhhirsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizAhmedAlbadry.example",
+            "certificate_hash": "d8b884d926d5d37cf602898009eacbef186dd44c"
+          }
+        },
+        {
+          "client_id": "1073410147315-umejv6dvbdrmsjk7n93g0etkd65c91g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MUaAVbEEvAL5jeH-kGFA4kn6rDkqvK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073410147315-umejv6dvbdrmsjk7n93g0etkd65c91g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
